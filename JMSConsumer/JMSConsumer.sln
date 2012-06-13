@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMSConsumer", "JMSConsumer.csproj", "{5983922C-35AB-4C73-98FB-820DD395B236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMSProxyLib", "..\JMSProxyLib\JMSProxyLib.csproj", "{62F8B598-C404-4550-96A7-C51E0AD56C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMQLib", "..\OpenMQLib\OpenMQLib.csproj", "{30B82AFB-8C9F-4E62-978F-CEB7FC9A8BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5983922C-35AB-4C73-98FB-820DD395B236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5983922C-35AB-4C73-98FB-820DD395B236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5983922C-35AB-4C73-98FB-820DD395B236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5983922C-35AB-4C73-98FB-820DD395B236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F8B598-C404-4550-96A7-C51E0AD56C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F8B598-C404-4550-96A7-C51E0AD56C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F8B598-C404-4550-96A7-C51E0AD56C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F8B598-C404-4550-96A7-C51E0AD56C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B82AFB-8C9F-4E62-978F-CEB7FC9A8BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B82AFB-8C9F-4E62-978F-CEB7FC9A8BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B82AFB-8C9F-4E62-978F-CEB7FC9A8BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B82AFB-8C9F-4E62-978F-CEB7FC9A8BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
